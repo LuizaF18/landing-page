@@ -1,1 +1,1 @@
-# landing-page
+Odin project meant to help solidify the beginner lessons on CSS and Flexbox. It involves recreating a picture of a landing page starting from scratch, with only the details of fonts and colors used.
